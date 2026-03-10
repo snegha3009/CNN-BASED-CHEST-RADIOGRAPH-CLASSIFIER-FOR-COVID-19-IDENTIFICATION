@@ -1,0 +1,10 @@
+Django>=4.2
+tensorflow>=2.12
+keras
+numpy
+pillow
+opencv-python
+matplotlib
+scikit-learn
+gunicorn
+django-crispy-forms
