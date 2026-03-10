@@ -97,5 +97,7 @@ COVID_CNN_Classifier/
 │   ├── urls.py
 │   ├── forms.py
 │   └── ...
-└── dataset/           # Original/preprocessed dataset (into COVID/non-COVID folders under dataset folder)
+└── dataset/           # Original/preprocessed dataset (into COVID/non-COVID folders under dataset folder)-->CHEST XRAY IMG DATASET FROM KAGGLE
+
+
 
